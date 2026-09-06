@@ -1,7 +1,8 @@
 
 {
     "owner": {
-        "username": "ma-noa"
+        "username": "ma-noa",
+        "email": "manoa576@proton.me"
     },
     "records": {
         "CNAME": "ma-noa.github.io"
