@@ -1,6 +1,7 @@
 {
     "owner": {
         "username": "afonsolopes41"
+        "email": "o-teu-email@exemplo.com"
     },
     "records": {
         "CNAME": "afonso-lopes-portfolio.pages.dev"
