@@ -4,7 +4,12 @@
     "email": "adelusheriff@gmail.com"
   },
   "records": {
-    "CNAME": "cname.vercel-dns.com"
+    "CNAME": "cname.vercel-dns.com",
+    "TXT": [
+      {
+        "name": "_vercel",
+        "value": "vc-domain-verify=adelusheriff.is-a.dev,4bbb38ef14737ec083a4"
+      }
+    ]
   }
 }
- 
