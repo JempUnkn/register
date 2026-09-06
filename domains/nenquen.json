@@ -5,8 +5,6 @@
   },
   "records": {
     "CNAME": "674979dcaf3433d2.vercel-dns-017.com",
-    "TXT": "vc-domain-verify=nenquen.is-a.dev,44c294655a50723ca358",
-    "www.CNAME": "674979dcaf3433d2.vercel-dns-017.com",
-    "www.TXT": "vc-domain-verify=www.nenquen.is-a.dev,0525455c88a8b0231049"
+    "TXT": "vc-domain-verify=nenquen.is-a.dev,44c294655a50723ca358"
   }
 }
