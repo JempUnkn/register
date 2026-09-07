@@ -3,7 +3,7 @@
     "username": "luxjson",
     "email": "luxjson@gmail.com"
   },
-  "record": {
+  "records": {
     "A": ["216.198.79.1"],
     "TXT": [
       {
@@ -16,8 +16,7 @@
       }
     ],
     "CNAME": {
-      "www": "5babef696db1e7de.vercel-dns-017.com.",
-      "api": "api.luxjson.is-a.dev"
+      "www": "5babef696db1e7de.vercel-dns-017.com."
     }
   },
   "proxied": false
