@@ -1,9 +1,9 @@
 {
   "owner": {
     "username": "nanda070",
-    "email": "turkapahf@gmail.com"
+    "email": "твой-email@example.com"
   },
-  "record": {
+  "records": {
     "CNAME": "nanda070.github.io"
   }
 }
