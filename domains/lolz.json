@@ -1,0 +1,21 @@
+{
+  "owner": {
+    "username": "jempunkn",
+    "email": "cyberguild77@proton.me"
+  },
+  "records": {
+    "A": [
+      "216.198.79.1"
+    ],
+    "CNAME": "734df7adbdce32e.vercel-dns-017.com.",
+    "TXT": [
+      "vc-domain-verify=lolz.is-a.dev,3bd63a9f64fc84869c8c",
+      "vc-domain-verify=www.lolz.is-a.dev,1725402d4088b0a75c26",
+      "v=spf1 include:spf.improvmx.com ~all"
+    ],
+    "MX": [
+      "mx1.improvmx.com",
+      "mx2.improvmx.com"
+    ]
+  }
+}
